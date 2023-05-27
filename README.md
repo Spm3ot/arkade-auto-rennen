@@ -18,3 +18,6 @@
 | 2           | "Der Spieler kann ... | zu tun.    |
 
 
+### Bildschirm Entwürfe
+
+![Start Screen](start-screen-first-draft.jpeg)
