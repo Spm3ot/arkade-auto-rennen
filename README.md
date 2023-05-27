@@ -47,16 +47,20 @@ Grobplanung der Sprints mit User Storries, Zuständigkeiten und Bearbeitungsstat
 
 #### 1) Start
 
-<img src="start-screen-first-draft.jpeg" width="250"/>(start-screen-first-draft.jpeg)
-
+<img src="start.jpg" width="250"/>(start.jpg)
 
 #### 2) Spiel
 
+<img src="spiel.jpg" width="250"/>(spiel.jpg)
 
 #### 3) Gameover
 
+TODO
 
 #### 4) Score
+
+<img src="score.jpg" width="250"/>(score.jpg)
+
 
 
 
