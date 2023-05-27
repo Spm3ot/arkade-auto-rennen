@@ -43,24 +43,20 @@ Grobplanung der Sprints mit User Storries, Zuständigkeiten und Bearbeitungsstat
 | 12      | -       | Neu        | -           | "Der Spieler kann vom Spielbildschirm in der Startbildschirm wechseln (ESC)"     |
 
 
-### Bildschirm Entwürfe
-####Startbildschirm:
-![Start Screen](start-screen-first-draft.jpeg)
+### Bildschirm Entwürf
+
+#### 1) Start
+
+<img src="start-screen-first-draft.jpeg" width="250"/>(start-screen-first-draft.jpeg)
 
 
-### Spielbildschirm:
-
-![Spielbildschirm Screen]()
+#### 2) Spiel
 
 
-### "Score"-bilschirm:
-!["Score"bildschirm Screen]()
+#### 3) Gameover
 
 
-### Spielbilschirm:
-![Spielbildschirm Screen]()
+#### 4) Score
 
 
-### "Gameover"-bilschirm:
-![Spielbildschirm Screen](start-screen-first-draft.jpeg)
 
