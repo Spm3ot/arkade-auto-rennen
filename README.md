@@ -12,7 +12,7 @@ Das spiel wird als einzelspieler laufen, mit einem Highscore-Ergebnis. Umgesetzt
 
 
 
-### Backlog
+### Backlog Grobplanung
 
 | Nummer      | Titel                 | Status     |
 | ----------- | --------------------- | -----------|
@@ -28,13 +28,23 @@ Das spiel wird als einzelspieler laufen, mit einem Highscore-Ergebnis. Umgesetzt
 | 9           |"Der Spieler kann im dem "Score"-Bildschirm auf de Startbildschirm wechseln " | zu tun     |
 | 10           |"Der Spieler kann vom Startbildschirm in den "Score"- Bildschirm wechseln" | zu tun     |
 | 11          |"Der Spieler kann vom Spielbildschirm in der Startbildschirm wechseln" | zu tun     |
-| 12          |"" | zu tun     |
-| 13           | | zu tun     |
-| 14           | | zu tun     |
-| 15           | | zu tun     |
-| 16          | | zu tun     |
+| 12          |"Der Spieler kann im Statbildschirm der FArbe der Autos wechseln" | zu tun     |
+
 
 
 ### Bildschirm Entwürfe
-
+####Startbildschirm:
 ![Start Screen](start-screen-first-draft.jpeg)
+
+###Spielbilschirm:
+![Spielbildschirm Screen]()
+
+###"Score"-bilschirm:
+!["Score"bildschirm Screen]()
+
+###Spielbilschirm:
+![Spielbildschirm Screen]()
+
+###"Gameover"-bilschirm:
+![Spielbildschirm Screen](start-screen-first-draft.jpeg)
+
