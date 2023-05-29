@@ -68,4 +68,11 @@ TODO
 
 
 
+### Klassendiagramm
+
+Grundgerüst Spielsteuerung
+
+<img src="klassendiagram.jpg"/>
+
+
 
