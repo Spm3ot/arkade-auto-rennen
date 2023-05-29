@@ -35,7 +35,7 @@ Grobplanung der Sprints mit User Storries, Zuständigkeiten und Bearbeitungsstat
 | 4       | 1       | In Arbeit  | Max         | "Der Spieler kann auf dem Startbildschirm das Spiel starten"                                        
 | 5       | 1       | Erledigt   | Korbinian   | "Der Spieler kann im Spielbildschirm mit den Pfeildtasten die Fahrspur für sein Fahrzeug ändern"   
 | 6       | 1       | Neu        | Max         | "Der Spieler sieht den Effekt von entkommenden Fahrzeugen"                                                                         
-| 8       | 1       | Neu        | Korbinan    | "Dem Spieler wird bei einer Kollision der "Gameover"-Screen gewechselt und sein Ergebnis gezeigt" 
+| 8       | 1       | Erledigt   | Korbinan    | "Dem Spieler wird bei einer Kollision der "Gameover"-Screen gewechselt und sein Ergebnis gezeigt" 
 | 7       | 1       | Neu        | -           | "Dem Spieler werden unterschieliche Design für Fahrzeuge gezeigt"
 | 9       | -       | Neu        | -           | "Der Sieler wird nach drei Sekunden des "Gameover"-Screens wird automatisch in der "Score"-Screen weiter geleitet"
 | 6       | -       | Neu        | -           | "Der Spieler sieht den Effekt von Bewegung der Fahrbahn und Leitplanken"     
