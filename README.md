@@ -32,7 +32,7 @@ Grobplanung der Sprints mit User Storries, Zuständigkeiten und Bearbeitungsstat
 
 | Nummer  | Sprint  | Status     | Bdearbeiter | Titel                
 | ------- | --------|------------|-------------|----------------------------------------------------------------------------------------------------|
-| 4       | 1       | In Arbeit  | Max         | "Der Spieler kann auf dem Startbildschirm das Spiel starten"                                        
+| 4       | 1       | Erledigt   | Max         | "Der Spieler kann auf dem Startbildschirm das Spiel starten"                                        
 | 5       | 1       | Erledigt   | Korbinian   | "Der Spieler kann im Spielbildschirm mit den Pfeildtasten die Fahrspur für sein Fahrzeug ändern"   
 | 6       | 1       | Neu        | Max         | "Der Spieler sieht den Effekt von entkommenden Fahrzeugen"                                                                         
 | 8       | 1       | Erledigt   | Korbinan    | "Dem Spieler wird bei einer Kollision der "Gameover"-Screen gewechselt und sein Ergebnis gezeigt" 
