@@ -67,12 +67,13 @@ TODO
 <img src="score.jpg" width="250"/>
 
 
-
 ### Klassendiagramm
 
 Grundgerüst Spielsteuerung
 
 <img src="klassendiagram.jpg"/>
+
+
 
 
 
