@@ -71,7 +71,7 @@ TODO
 
 Grundgerüst Spielsteuerung
 
-<img src="klassendiagram.jpg"/>
+<img src="klassendiagramm_v2.jpg"/>
 
 
 
