@@ -30,12 +30,14 @@ Umgesetzts soll es mit Java in der Online-IDE laufen.
 
 Grobplanung der Sprints mit User Storries, Zuständigkeiten und Bearbeitungsstatus
 
-| Nummer  | Sprint  | Status     | Bdearbeiter | Titel                
+| Nummer  | Sprint  | Status     | Bearbeiter | Titel                
 | ------- | --------|------------|-------------|----------------------------------------------------------------------------------------------------|
 | 4       | 1       | Erledigt   | Max         | "Der Spieler kann auf dem Startbildschirm das Spiel starten"                                        
 | 5       | 1       | Erledigt   | Korbinian   | "Der Spieler kann im Spielbildschirm mit den Pfeildtasten die Fahrspur für sein Fahrzeug ändern"   
-| 6       | 1       | Neu        | Max         | "Der Spieler sieht den Effekt von entkommenden Fahrzeugen"                                                                         
+| 6       | 1       | Erledigt   | Max         | "Der Spieler sieht den Effekt von fahrenden Fahrzeugen"      
+| 10      | -       | erledigt   | -           | "Der Spieler kann im dem "Score"-Bildschirm auf den Startbildschirm wechseln (ESC)" 
 | 8       | 1       | Erledigt   | Korbinan    | "Dem Spieler wird bei einer Kollision der "Gameover"-Screen gewechselt und sein Ergebnis gezeigt" 
+| 12      | -       | erledigt   | -           | "Der Spieler kann vom Spielbildschirm in der Startbildschirm wechseln (ESC)"    
 | 7       | 1       | Neu        | -           | "Dem Spieler werden unterschieliche Design für Fahrzeuge gezeigt"
 | 9       | -       | Neu        | -           | "Der Sieler wird nach drei Sekunden des "Gameover"-Screens wird automatisch in der "Score"-Screen weiter geleitet"
 | 6       | -       | Neu        | -           | "Der Spieler sieht den Effekt von Bewegung der Fahrbahn und Leitplanken"     
@@ -45,7 +47,7 @@ Grobplanung der Sprints mit User Storries, Zuständigkeiten und Bearbeitungsstat
 | 3       | -       | Neu        | -           | "Der Spieler kann auf dem Startbildschirm seinen Highscore sehen"
 | 11      | -       | Neu        | -           | "Der Spieler kann vom Startbildschirm in den "Score"-Bildschirm wechseln"    
 | 10      | -       | Neu        | -           | "Der Spieler kann im dem "Score"-Bildschirm auf den Startbildschirm wechseln (ESC)"     
-| 12      | -       | Neu        | -           | "Der Spieler kann vom Spielbildschirm in der Startbildschirm wechseln (ESC)"    
+
 
 
 ### Bildschirm Entwürf
